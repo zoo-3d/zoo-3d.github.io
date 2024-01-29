@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Hello!"
+date:   2024-01-29 13:51:58 +0800
+categories: hello
+---
+
+# First of all
+
+{% highlight python %}
+def hello():
+  print("Hello!")
+
+hello()
+{% endhighlight %}
